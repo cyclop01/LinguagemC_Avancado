@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1487719577 source:c:\users\aluno\documents\filas\insert.c
+	<stdio.h>
+	<stdlib.h>
+
+1487720536 source:c:\users\aluno\documents\filas\remover.c
+	<stdio.h>
+	<stdlib.h>
+
+1487720536 source:c:\users\aluno\documents\filas\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1487723840 source:c:\users\lucas\documents\github\linguagemc_avancado\filas\insert.c
+	<stdio.h>
+	<stdlib.h>
+
+1487723840 source:c:\users\lucas\documents\github\linguagemc_avancado\filas\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1487723840 source:c:\users\lucas\documents\github\linguagemc_avancado\filas\remover.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1487116877 source:c:\users\aluno\documents\pilha\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1487116865 source:c:\users\aluno\documents\pilha\pop.c
+	<stdio.h>
+	<stdlib.h>
+
+1487113932 source:c:\users\aluno\documents\pilha\push.c
+	<stdio.h>
+	<stdlib.h>
+
+1487116878 source:c:\users\lucas\documents\github\linguagemc_avancado\pilha\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1487116866 source:c:\users\lucas\documents\github\linguagemc_avancado\pilha\pop.c
+	<stdio.h>
+	<stdlib.h>
+
+1487113934 source:c:\users\lucas\documents\github\linguagemc_avancado\pilha\push.c
+	<stdio.h>
+	<stdlib.h>
+
