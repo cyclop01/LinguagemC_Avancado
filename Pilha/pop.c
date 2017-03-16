@@ -5,11 +5,18 @@
 int pos;
 int vetor[con];
 
-int pop(){
+int pop()
+{
 
-return vetor[pos];
-//system("pause");
-
+    if(pos == 0)
+    {
+        printf("Pilha vazia!!!\n");
+        printf("-1");
+        return -1;
+    }
+    pos--;
+    printf("Valor %d retirado da pilha \n", vetor[pos]);
+    return vetor[pos];
 }
 
 

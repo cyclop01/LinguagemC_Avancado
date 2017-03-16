@@ -9,9 +9,7 @@ int ret=0;
 
 int main()
 {
-
     int op=0, valor=0;
-
     while (op!=3)
     {
         system("cls");
@@ -29,15 +27,11 @@ int main()
             push(valor);
             break;
         case 2:
-            pos=2;
-            while(pos!=-1)
-            {
-                ret=pop();
-                printf("%d\n",ret);
-                pos--;
-            }
+            pop();
             system("pause");
+            break;
         }
+
     }
     return 0;
 }

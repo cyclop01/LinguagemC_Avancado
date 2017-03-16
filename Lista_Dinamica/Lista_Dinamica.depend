@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1489633625 source:c:\users\lucas\documents\lista1 maromo\lista_dinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+
